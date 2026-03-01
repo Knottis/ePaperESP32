@@ -1,2 +1,4 @@
 # ePaperESP32
 WEATHER DASHBOARD
+
+Copyright © 2026 Knottis. All rights reserved. No permission is granted to use, copy, modify, or distribute this code.
